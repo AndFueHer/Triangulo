@@ -1,0 +1,12 @@
+C:\Users\andres.fuentes\AppData\Local\Temporary Projects\PeriArCua\bin\Debug\PeriArCua.exe.config
+C:\Users\andres.fuentes\AppData\Local\Temporary Projects\PeriArCua\bin\Debug\PeriArCua.exe
+C:\Users\andres.fuentes\AppData\Local\Temporary Projects\PeriArCua\bin\Debug\PeriArCua.pdb
+C:\Users\andres.fuentes\AppData\Local\Temporary Projects\PeriArCua\obj\Debug\PeriArCua.csprojResolveAssemblyReference.cache
+C:\Users\andres.fuentes\AppData\Local\Temporary Projects\PeriArCua\obj\Debug\PeriArCua.exe
+C:\Users\andres.fuentes\AppData\Local\Temporary Projects\PeriArCua\obj\Debug\PeriArCua.pdb
+C:\Users\andres.fuentes\Documents\Cenfotec\Triangulo\PeriArCua\PeriArCua\bin\Debug\PeriArCua.exe.config
+C:\Users\andres.fuentes\Documents\Cenfotec\Triangulo\PeriArCua\PeriArCua\obj\Debug\PeriArCua.exe
+C:\Users\andres.fuentes\Documents\Cenfotec\Triangulo\PeriArCua\PeriArCua\obj\Debug\PeriArCua.pdb
+C:\Users\andres.fuentes\Documents\Cenfotec\Tri\PeriArCua\bin\Debug\PeriArCua.exe.config
+C:\Users\andres.fuentes\Documents\Cenfotec\Tri\PeriArCua\obj\Debug\PeriArCua.exe
+C:\Users\andres.fuentes\Documents\Cenfotec\Tri\PeriArCua\obj\Debug\PeriArCua.pdb
